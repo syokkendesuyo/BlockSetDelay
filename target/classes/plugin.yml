@@ -1,0 +1,7 @@
+name: BlockSetDelay
+version: 1.0.0
+main: net.jp.minecraft.plugin.BlockSetDelay
+permissions:
+    bsd.allow:
+        description: BlockSetDelay Permisson.
+        default: op
